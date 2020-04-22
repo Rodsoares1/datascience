@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572998908632.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A1E626F2",
+    "lastKnownWriteTime" : 1572998842,
+    "last_content_update" : 1572998908632,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "49A78D46",
+        "caption" : "dados",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dados&cache_key=49A78D46",
+        "displayedObservations" : "234",
+        "environment" : "",
+        "expression" : "dados",
+        "object" : "dados",
+        "preview" : "0",
+        "totalObservations" : "234",
+        "variables" : "11"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

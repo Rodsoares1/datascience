@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572998439612.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EC7F07F6",
+    "lastKnownWriteTime" : 1573000969,
+    "last_content_update" : 1573000969637,
+    "path" : "~/Estudos/graficos.R",
+    "project_path" : "graficos.R",
+    "properties" : {
+        "cursorPosition" : "36,35",
+        "scrollLine" : "14",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
