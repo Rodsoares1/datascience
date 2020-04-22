@@ -47,4 +47,3 @@ ggplot(data = dados, mapping = aes(x = displ, y = hwy)) +
   geom_smooth(data = filter(mpg, class == "midsize"), se = FALSE) +
   geom_point(mapping = aes(color = class))
 
-ta alterado
